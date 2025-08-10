@@ -1,0 +1,12 @@
+[30-Nov-2023 07:00:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/itmsofts/softs/soft.itmsofts.com/ebs/itm/supplier_info/createOrder.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/itmsofts/softs/soft.itmsofts.com/ebs/itm/supplier_info/createOrder.php on line 70
+[30-Nov-2023 07:05:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/itmsofts/softs/soft.itmsofts.com/ebs/itm/supplier_info/createOrder.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/itmsofts/softs/soft.itmsofts.com/ebs/itm/supplier_info/createOrder.php on line 70
+[30-Nov-2023 07:06:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/itmsofts/softs/soft.itmsofts.com/ebs/itm/supplier_info/createOrder.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/itmsofts/softs/soft.itmsofts.com/ebs/itm/supplier_info/createOrder.php on line 70

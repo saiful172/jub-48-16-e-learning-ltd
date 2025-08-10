@@ -1,0 +1,304 @@
+<?php  session_start();
+require_once '../../includes/conn.php';
+?>
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="php_action/invoice/style.css" media="all" />
+		<?php 
+$sql = $con->query("select * from color_inv where user_id ='".$_SESSION['id']."' ");
+$row = $sql->fetch_assoc();
+$Whole =$row['whole'];
+$table_head =$row['table_head']; 
+$table_body =$row['table_body']; 
+?> 
+
+
+<style type="text/css"> 
+
+.btm-border{border-bottom:1px solid #AAAAAA;}
+.btm-border-na{border-bottom:1px solid white;}
+
+
+
+a {
+  color: <?php echo $Whole ; ?>;
+}
+
+
+table thead th { 
+  background: <?php echo $table_head ; ?>;
+}
+ 
+table th,
+table td ,table tr  {
+  background: <?php echo $table_body ; ?>;
+}
+
+#notices{
+  border-left: 6px solid <?php echo $Whole ; ?>;  
+}
+
+#client {
+  border-left: 6px solid <?php echo $Whole ; ?>;
+}
+
+#invoice h1 {
+  color: <?php echo $Whole ; ?>;
+}
+
+.center{text-align:center;}
+
+
+</style>
+  </head>
+  <body>
+  
+<?php 
+$sql = $con->query("select * from stuff where userid ='".$_SESSION['id']."' ");
+$row = $sql->fetch_assoc();
+$BizLogo =$row['photo'];
+$SignImg =$row['sign_img'];
+$BizNam =$row['business_name'];
+$BizDetails =$row['business_details'];
+$BizPhn =$row['business_phone']; 
+$BizEml =$row['business_email'];
+$BizWeb =$row['biz_web'];
+$BizAdr =$row['business_address'];
+?>
+            
+    <header class="clearfix">
+      <div id="logo">
+	  <img src="../<?php if($BizLogo==""){echo "../img/user.jpg";}else{echo $BizLogo;} ?>"> 
+      </div>
+      <div id="company"> 
+        <h2 class="name"><b><?php echo $BizNam ; ?></b> <br><?php echo $BizDetails ; ?></h2>
+       <div><?php echo $BizAdr ; ?></div>  
+      <div>Call : <?php echo $BizPhn ; ?>, Email : <a href="mailto:<?php echo $BizEml ; ?>"><?php echo $BizEml ; ?></a> , Website : <?php echo $BizWeb ; ?></div>
+	  </div>
+      </div>
+    </header>
+	
+    <main>
+	 
+				
+      <div id="details" class="clearfix">
+	  <?php 
+	  $orderId = $_POST['orderId'];
+$sql = $con->query("select distinct customer.customer_name,customer.position,customer.contact_info,customer.email,customer.address from orders
+    left join `customer` on customer.customer_id=orders.customer_id
+				   where orders.order_id='$orderId' ");
+$row = $sql->fetch_assoc();
+$CustName =$row['customer_name'];
+$CustPos =$row['position'];
+$CustPhn =$row['contact_info']; 
+$CustAdrs =$row['address']; 
+$CustEml =$row['email']; 
+?>
+        <div id="client">
+          <h2 class="name"><b>To :</b></h2>
+          <h2 class="name"><?php echo $CustName ; ?></h2>
+          <div class="address"><?php echo $CustPhn ; ?></div>
+          <div class="email"><a href="mailto:<?php echo $CustEml ; ?>"><?php echo $CustEml ; ?></a></div>
+          <div class="address"><?php echo $CustAdrs ; ?></div>
+		</div>
+		
+	<?php 
+	  $orderId = $_POST['orderId'];
+$sql = $con->query("select * from orders
+                   left join  stuff on stuff.userid=orders.user_id
+				   where order_id = $orderId  ");
+$row = $sql->fetch_assoc();
+$InvName =$row['inv_name'];
+$CustomInv =$row['custom_invoice_no'];
+$InvTime =$row['invoice_time'];  
+?>	
+		
+        <div id="invoice">
+          <h1>Invoice</h1>
+          <div class="date">Invoice No : <?php echo $InvName ; ?>-<?php echo $CustomInv ; ?></div>
+          <div class="date"><?php date_default_timezone_set("Asia/Dhaka"); echo date("d-M-Y h:i:sa", strtotime($InvTime)); ?></div>
+        </div>
+		
+      </div>
+	  
+	  <?php 
+$sql = $con->query("select * from option_status where user_id ='".$_SESSION['id']."' ");
+$row = $sql->fetch_assoc();
+$Curier =$row['courier_service']; 
+?>
+
+	  
+	  <?php 	 
+$orderId = $_POST['orderId'];
+$sql = "SELECT * FROM orders  WHERE order_id = $orderId";
+
+$orderResult = $con->query($sql);
+$orderData = $orderResult->fetch_array();
+
+
+$OrderId = $orderData[1];
+$EmpId = $orderData[2];
+$CustId = $orderData[3];
+$orderDate = $orderData[4];
+$DeliverDate = $orderData[5];
+$clientName = $orderData[6];
+$clientContact = $orderData[7]; 
+$clientAddress = $orderData[8]; 
+
+$subTotal = $orderData[10];
+$vat = $orderData[11];
+$totalAmount = $orderData[12]; 
+$discount = $orderData[13];
+$PreDue = $orderData[14];
+$TodayTotal = $orderData[15];
+$GTotal = $orderData[16];
+
+$paid = $orderData[17];
+$DeliverDatePaid = $orderData[18];
+$RecDue = $orderData[19];
+$Due_or_paid = $orderData[20];
+$CustomInvoice = $orderData[25];
+$InvCom = $orderData[28];
+$CuriCharg = $orderData[30];
+
+$DisTaka = $orderData[31];
+$DisP = $orderData[32];
+
+
+$orderD= date("M d, Y", strtotime( $orderDate));
+$DeliverD= date("M d, Y", strtotime( $DeliverDate));
+$GrandTotalPaid = $paid + $DeliverDatePaid;
+
+$orderItemSql = "SELECT order_item.product_id, order_item.rate, order_item.order_quantity, order_item.total,
+product.product_name,order_item.short_details,order_item.single_dis_taka,order_item.single_dis_prcnt,product.warranty,order_item.pro_qr_code FROM order_item
+	left JOIN product ON order_item.product_id = product.product_id 
+ WHERE order_item.order_id = $orderId";
+$orderItemResult = $con->query($orderItemSql);
+
+ $table = '
+      
+	  <table border="0" cellspacing="0" cellpadding="0">
+       
+	   <thead>
+          <tr>
+            <th class="no"><b>#</b></th>
+            <th class="desc"><b>Product</b></th>
+            <th class="unit"><b>Qty</b></th>
+            <th class="qty"><b>Price</b></th>
+            <th class="qty"><b>Dis</b></th>
+            <th class="qty"><b>Dis %</b></th>
+            <th class="total"><b>Total</b></th>
+          </tr>
+        </thead>
+      ';
+	  
+	 
+	  $x = 1;
+		while($row = $orderItemResult->fetch_array()) {			
+						
+			$table .= '
+			
+		 <tbody>	
+          <tr>
+            <td class="no">'.$x.'</td>
+             <td class="desc"><h3>'.$row[4].'</h3> <span style="font-size:14px;">'.$row[5].' - '.$row[8].' <br> Code : '.$row[9].'</span></td>
+            <td class="unit">'.$row[2].'</td>
+            <td class="qty">'.$row[1].'</td>
+            <td class="qty">'.$row[6].'</td>
+            <td class="qty">'.$row[7].'</td>
+            <td class="total">'.$row[3].'</td>
+          </tr>
+		  
+		  ';
+		$x++;
+		} // /while
+      
+       $table .= '      
+		   
+        </tbody>
+		
+		
+        <tfoot>
+         <tr>
+            <td colspan="4"></td>
+            <td colspan="2">Subtotal =</td>
+            <td>'.$subTotal.'</td>
+          </tr>
+          
+		  <tr>   
+            <td class="no">Dis.Tk <br> '.$DisTaka.'</td>
+            <td class="no">Dis % <br> '.$DisP.'</td>
+            <td class="no">Total <br> '.$TodayTotal.'</td>
+            <td class="btm-border"> Pre.Due <br> '.$PreDue.'</td>
+			<td class="no">Courier <br>'.$CuriCharg.'.00</td> 
+			<td class="no">Grand Total = </td>
+            <td class="no">'.$GTotal.' </td>
+          </tr>
+		  
+		  
+		  
+		  <tr>
+            <td colspan="4"></td>
+            <td colspan="2">Paid Amount = </td>
+            <td>'.$paid.'</td>
+          </tr>
+		   
+		  
+		  <tr>
+            <td colspan="4"></td>
+            <td colspan="2">Recent Due = </td>
+            <td>'.$RecDue.'</td>
+          </tr>
+		  
+        </tfoot>
+		
+      </table>
+ '; 
+//$con->close(); 
+echo $table;
+
+?>	   
+      
+      <div id="notices">
+<?php 
+$sql = $con->query(" SELECT * FROM orders
+  left join `payment_status` on payment_status.ps_id=orders.payment_status
+  left join `payment_type` on payment_type.pt_id=orders.payment_type
+  left join `courier` on courier.id=orders.inv_courier
+  WHERE orders.order_id = $orderId ");
+$row = $sql->fetch_assoc();
+$PmntType =$row['pt_name']; 
+$PmntStatus =$row['ps_name']; 
+$CourName=$row['courier_name']; 
+?>   
+        <div><?php echo $InvCom; ?> </div><hr>
+        <div class="notice"> <b>Payment : </b> <?php echo $PmntType; ?> || <?php echo $PmntStatus; ?> <span style="display:<?php echo $Curier; ?>;">  || <b> Courier Service : </b> <?php echo $CourName; ?> </span> </div>
+      </div>
+	  
+    </main>
+	
+
+<div style="float:right;text-align:center;">
+ 
+<img src="../<?php if($SignImg==""){echo "../img/user.jpg";}else{echo $SignImg;} ?>" width="150px" height="50px"><br> 
+........................................<br>
+Company Signature
+</div>
+
+	
+    <footer>
+	
+      <?php 	    
+				   $pq=mysqli_query($con,"select invoice_welcome from stuff where userid ='".$_SESSION['id']."' ");
+				   while($pqrow=mysqli_fetch_array($pq)){
+?>
+<?php echo $pqrow['invoice_welcome']; ?>
+ <?php }?>
+  
+    </footer>
+	
+  </body>
+</html>

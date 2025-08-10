@@ -1,0 +1,908 @@
+[03-Apr-2023 05:17:29 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[03-Apr-2023 05:17:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[03-Apr-2023 05:17:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[03-Apr-2023 05:17:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[03-Apr-2023 05:17:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[03-Apr-2023 05:17:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[03-Apr-2023 05:17:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[03-Apr-2023 05:17:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[03-Apr-2023 05:17:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[03-Apr-2023 05:17:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[03-Apr-2023 05:17:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[03-Apr-2023 05:17:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[03-Apr-2023 05:17:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[03-Apr-2023 05:17:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[03-Apr-2023 05:17:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[03-Apr-2023 05:17:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[03-Apr-2023 05:17:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[03-Apr-2023 05:18:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[03-Apr-2023 05:18:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[03-Apr-2023 05:18:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[03-Apr-2023 05:18:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[03-Apr-2023 05:18:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[03-Apr-2023 05:18:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[03-Apr-2023 05:18:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[03-Apr-2023 05:18:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[03-Apr-2023 05:22:28 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[03-Apr-2023 05:22:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[03-Apr-2023 05:22:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[03-Apr-2023 05:22:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[03-Apr-2023 05:22:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[03-Apr-2023 05:22:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[03-Apr-2023 05:22:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[03-Apr-2023 05:22:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[03-Apr-2023 05:22:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[03-Apr-2023 05:22:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[03-Apr-2023 05:22:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[03-Apr-2023 05:22:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[03-Apr-2023 05:22:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[03-Apr-2023 05:23:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[03-Apr-2023 05:23:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[03-Apr-2023 05:23:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[03-Apr-2023 05:23:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[03-Apr-2023 05:25:40 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[03-Apr-2023 05:25:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[03-Apr-2023 05:25:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[03-Apr-2023 05:25:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[03-Apr-2023 05:25:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[09-Apr-2023 05:00:01 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[09-Apr-2023 05:00:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[09-Apr-2023 05:00:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[09-Apr-2023 05:00:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[09-Apr-2023 05:00:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[09-Apr-2023 05:00:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[09-Apr-2023 05:00:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[09-Apr-2023 05:00:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[09-Apr-2023 05:00:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[09-Apr-2023 05:00:17 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[09-Apr-2023 05:00:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[09-Apr-2023 05:00:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[09-Apr-2023 05:00:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[09-Apr-2023 05:00:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[09-Apr-2023 05:14:25 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[09-Apr-2023 05:14:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[09-Apr-2023 05:14:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[09-Apr-2023 05:14:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[09-Apr-2023 05:14:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[09-Apr-2023 05:14:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[09-Apr-2023 05:14:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[09-Apr-2023 05:14:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[09-Apr-2023 05:14:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[09-Apr-2023 05:14:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[09-Apr-2023 05:14:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[09-Apr-2023 05:14:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[09-Apr-2023 05:14:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[09-Apr-2023 05:15:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[09-Apr-2023 05:15:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[09-Apr-2023 05:15:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[09-Apr-2023 05:15:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[09-Apr-2023 05:15:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[09-Apr-2023 05:15:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[09-Apr-2023 05:15:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[09-Apr-2023 05:15:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[09-Apr-2023 05:15:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[09-Apr-2023 05:15:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[09-Apr-2023 05:15:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[09-Apr-2023 05:15:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[09-Apr-2023 05:16:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[09-Apr-2023 05:16:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[09-Apr-2023 05:16:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[09-Apr-2023 05:16:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[09-Apr-2023 05:16:20 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[09-Apr-2023 05:16:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[09-Apr-2023 05:16:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[09-Apr-2023 05:16:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[09-Apr-2023 05:16:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[09-Apr-2023 05:18:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[09-Apr-2023 05:18:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[09-Apr-2023 05:18:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[09-Apr-2023 05:18:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[09-Apr-2023 06:13:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[09-Apr-2023 06:13:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[09-Apr-2023 06:13:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[09-Apr-2023 06:13:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[09-Apr-2023 06:13:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[09-Apr-2023 06:13:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[09-Apr-2023 06:13:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[09-Apr-2023 06:13:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[09-Apr-2023 06:13:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[09-Apr-2023 06:13:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[09-Apr-2023 06:13:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[09-Apr-2023 06:13:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[09-Apr-2023 06:13:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[09-Apr-2023 06:16:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[09-Apr-2023 06:16:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[09-Apr-2023 06:16:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[09-Apr-2023 06:16:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[09-Apr-2023 07:02:01 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[09-Apr-2023 07:02:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[09-Apr-2023 07:02:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[09-Apr-2023 07:02:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[09-Apr-2023 07:02:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[09-Apr-2023 07:02:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[09-Apr-2023 07:02:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[09-Apr-2023 07:02:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[09-Apr-2023 07:02:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[09-Apr-2023 07:40:53 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[09-Apr-2023 07:40:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[09-Apr-2023 07:40:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[09-Apr-2023 07:40:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[09-Apr-2023 07:40:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[10-Apr-2023 06:05:29 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[10-Apr-2023 06:05:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[10-Apr-2023 06:05:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[10-Apr-2023 06:05:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[10-Apr-2023 06:05:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[10-Apr-2023 06:05:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[10-Apr-2023 06:05:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[10-Apr-2023 06:05:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[10-Apr-2023 06:05:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[10-Apr-2023 06:05:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[10-Apr-2023 06:05:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[10-Apr-2023 06:09:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[10-Apr-2023 06:09:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[10-Apr-2023 06:09:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[10-Apr-2023 06:09:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[10-Apr-2023 06:10:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[10-Apr-2023 06:10:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[10-Apr-2023 06:10:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[10-Apr-2023 06:10:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[10-Apr-2023 06:11:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[10-Apr-2023 06:11:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[10-Apr-2023 06:11:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[10-Apr-2023 06:11:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[10-Apr-2023 09:59:11 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[10-Apr-2023 09:59:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[10-Apr-2023 09:59:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[10-Apr-2023 09:59:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[10-Apr-2023 09:59:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[10-Apr-2023 09:59:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[10-Apr-2023 09:59:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[10-Apr-2023 09:59:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[10-Apr-2023 09:59:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[10-Apr-2023 09:59:29 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[10-Apr-2023 09:59:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[10-Apr-2023 09:59:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[10-Apr-2023 09:59:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[10-Apr-2023 09:59:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[11-Apr-2023 08:37:39 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[11-Apr-2023 08:37:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[11-Apr-2023 08:37:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[11-Apr-2023 08:37:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[11-Apr-2023 08:37:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[11-Apr-2023 08:38:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[11-Apr-2023 08:38:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[11-Apr-2023 08:38:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[11-Apr-2023 08:38:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[11-Apr-2023 08:38:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[11-Apr-2023 08:38:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[11-Apr-2023 08:38:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[11-Apr-2023 08:38:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[11-Apr-2023 08:39:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[11-Apr-2023 08:39:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[11-Apr-2023 08:39:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[11-Apr-2023 08:39:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[13-Apr-2023 08:30:00 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[13-Apr-2023 08:30:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[13-Apr-2023 08:30:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[13-Apr-2023 08:30:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[13-Apr-2023 08:30:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[13-Apr-2023 08:30:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[13-Apr-2023 08:30:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[13-Apr-2023 08:36:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[13-Apr-2023 08:36:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[13-Apr-2023 08:36:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[13-Apr-2023 08:36:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[13-Apr-2023 08:36:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[13-Apr-2023 08:36:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[13-Apr-2023 08:36:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[13-Apr-2023 08:36:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[13-Apr-2023 08:44:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[13-Apr-2023 08:44:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[13-Apr-2023 08:44:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[13-Apr-2023 08:44:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[13-Apr-2023 08:46:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[13-Apr-2023 08:46:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[13-Apr-2023 08:46:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[13-Apr-2023 08:46:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[15-Apr-2023 08:34:00 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[15-Apr-2023 08:34:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[15-Apr-2023 08:34:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[15-Apr-2023 08:34:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[15-Apr-2023 08:34:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[15-Apr-2023 08:34:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[15-Apr-2023 08:34:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[15-Apr-2023 08:34:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[15-Apr-2023 08:34:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[15-Apr-2023 08:34:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[15-Apr-2023 08:34:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[15-Apr-2023 08:34:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[15-Apr-2023 08:34:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[15-Apr-2023 08:41:37 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[15-Apr-2023 08:41:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[15-Apr-2023 08:41:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[15-Apr-2023 08:41:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[15-Apr-2023 08:41:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[15-Apr-2023 08:41:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[15-Apr-2023 08:41:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[15-Apr-2023 08:41:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[15-Apr-2023 08:41:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[15-Apr-2023 08:41:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[15-Apr-2023 08:41:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[15-Apr-2023 08:41:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[15-Apr-2023 08:41:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[15-Apr-2023 08:42:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[15-Apr-2023 08:42:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[15-Apr-2023 08:42:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[15-Apr-2023 08:42:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[15-Apr-2023 08:43:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[15-Apr-2023 08:43:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[15-Apr-2023 08:43:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[15-Apr-2023 08:43:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[15-Apr-2023 08:45:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[15-Apr-2023 08:45:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[15-Apr-2023 08:45:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[15-Apr-2023 08:45:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[15-Apr-2023 08:46:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[15-Apr-2023 08:46:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[15-Apr-2023 08:46:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[15-Apr-2023 08:46:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[15-Apr-2023 08:46:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[15-Apr-2023 08:46:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[15-Apr-2023 08:46:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[15-Apr-2023 08:46:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[15-Apr-2023 08:48:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[15-Apr-2023 08:48:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[15-Apr-2023 08:48:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[15-Apr-2023 08:48:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[15-Apr-2023 08:48:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[15-Apr-2023 08:48:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[15-Apr-2023 08:48:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[15-Apr-2023 08:48:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[15-Apr-2023 08:49:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[15-Apr-2023 08:49:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[15-Apr-2023 08:49:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[15-Apr-2023 08:49:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[15-Apr-2023 08:51:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[15-Apr-2023 08:51:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[15-Apr-2023 08:51:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/stuff.php on line 35
+[15-Apr-2023 08:51:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[15-Apr-2023 08:51:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[15-Apr-2023 08:51:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[15-Apr-2023 08:51:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[15-Apr-2023 08:51:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[15-Apr-2023 08:51:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[17-Apr-2023 04:07:17 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[17-Apr-2023 04:07:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[17-Apr-2023 04:07:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[17-Apr-2023 04:07:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[17-Apr-2023 04:07:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[17-Apr-2023 04:07:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[17-Apr-2023 04:07:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[17-Apr-2023 04:07:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[17-Apr-2023 04:07:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[17-Apr-2023 04:07:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[17-Apr-2023 04:07:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[17-Apr-2023 04:07:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[17-Apr-2023 04:07:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[17-Apr-2023 04:08:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[17-Apr-2023 04:08:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[17-Apr-2023 04:08:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[17-Apr-2023 04:08:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[17-Apr-2023 04:10:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[17-Apr-2023 04:10:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[17-Apr-2023 04:10:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[17-Apr-2023 04:10:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[17-Apr-2023 04:12:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[17-Apr-2023 04:12:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[17-Apr-2023 04:12:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[17-Apr-2023 04:12:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[17-Apr-2023 04:14:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[17-Apr-2023 04:14:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[17-Apr-2023 04:14:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[17-Apr-2023 04:14:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[17-Apr-2023 04:16:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[17-Apr-2023 04:16:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[17-Apr-2023 04:16:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[17-Apr-2023 04:16:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[17-Apr-2023 04:21:34 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[17-Apr-2023 04:21:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[17-Apr-2023 04:21:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[17-Apr-2023 04:21:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[17-Apr-2023 04:21:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[26-Apr-2023 07:53:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[26-Apr-2023 07:53:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[26-Apr-2023 07:53:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[26-Apr-2023 07:53:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[26-Apr-2023 07:53:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[26-Apr-2023 07:53:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[26-Apr-2023 07:53:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[26-Apr-2023 07:53:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[26-Apr-2023 07:53:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[26-Apr-2023 07:54:02 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[26-Apr-2023 07:54:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[26-Apr-2023 07:54:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[26-Apr-2023 07:54:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[26-Apr-2023 07:54:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[26-Apr-2023 07:54:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[26-Apr-2023 07:54:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[26-Apr-2023 07:54:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[26-Apr-2023 07:54:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[26-Apr-2023 07:54:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[26-Apr-2023 07:54:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[26-Apr-2023 07:54:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[26-Apr-2023 07:54:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[26-Apr-2023 07:54:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[26-Apr-2023 07:54:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[26-Apr-2023 07:54:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[26-Apr-2023 07:54:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[27-Apr-2023 07:04:43 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[27-Apr-2023 07:04:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[27-Apr-2023 07:04:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[27-Apr-2023 07:04:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[27-Apr-2023 07:04:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[27-Apr-2023 07:04:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[27-Apr-2023 07:04:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[27-Apr-2023 07:04:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[27-Apr-2023 07:04:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[27-Apr-2023 07:05:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[27-Apr-2023 07:05:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[27-Apr-2023 07:05:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[27-Apr-2023 07:05:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[27-Apr-2023 07:06:26 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[27-Apr-2023 07:06:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[27-Apr-2023 07:06:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[27-Apr-2023 07:06:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[27-Apr-2023 07:06:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[02-May-2023 11:56:10 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[02-May-2023 11:56:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[02-May-2023 11:56:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[02-May-2023 11:56:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[02-May-2023 11:56:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[02-May-2023 11:56:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[02-May-2023 11:56:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[02-May-2023 11:56:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[02-May-2023 11:56:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[03-May-2023 06:43:21 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[03-May-2023 06:43:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[03-May-2023 06:43:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[03-May-2023 06:43:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[03-May-2023 06:43:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[03-May-2023 06:43:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[03-May-2023 06:43:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[03-May-2023 06:43:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[03-May-2023 06:43:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[03-May-2023 06:43:30 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[03-May-2023 06:43:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[03-May-2023 06:43:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[03-May-2023 06:43:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[03-May-2023 06:43:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[06-May-2023 08:30:04 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[06-May-2023 08:30:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[06-May-2023 08:30:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[06-May-2023 08:30:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[06-May-2023 08:30:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[06-May-2023 08:30:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[06-May-2023 08:30:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[06-May-2023 08:30:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[06-May-2023 08:30:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[18-May-2023 10:07:29 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[18-May-2023 10:07:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[18-May-2023 10:07:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[18-May-2023 10:07:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[18-May-2023 10:07:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[18-May-2023 10:07:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[18-May-2023 10:07:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[18-May-2023 10:07:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[18-May-2023 10:07:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[31-Aug-2023 11:09:52 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[31-Aug-2023 11:09:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[31-Aug-2023 11:09:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[31-Aug-2023 11:09:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[31-Aug-2023 11:09:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[31-Aug-2023 11:09:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[31-Aug-2023 11:09:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[31-Aug-2023 11:09:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[31-Aug-2023 11:09:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[31-Aug-2023 11:09:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[31-Aug-2023 11:09:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[31-Aug-2023 11:09:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[31-Aug-2023 11:09:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[31-Aug-2023 11:10:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[31-Aug-2023 11:10:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[31-Aug-2023 11:10:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[31-Aug-2023 11:10:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[31-Aug-2023 11:10:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[31-Aug-2023 11:10:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[31-Aug-2023 11:10:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[31-Aug-2023 11:10:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[31-Aug-2023 11:16:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[31-Aug-2023 11:16:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[31-Aug-2023 11:16:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[31-Aug-2023 11:16:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[31-Aug-2023 11:16:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[14-Sep-2023 07:44:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[14-Sep-2023 07:44:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[14-Sep-2023 07:44:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[14-Sep-2023 07:44:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[14-Sep-2023 07:44:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[14-Sep-2023 07:44:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[14-Sep-2023 07:44:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[14-Sep-2023 07:44:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[14-Sep-2023 07:44:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[14-Sep-2023 07:44:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[14-Sep-2023 07:44:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[14-Sep-2023 07:44:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[14-Sep-2023 07:44:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[14-Sep-2023 07:45:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[14-Sep-2023 07:45:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[14-Sep-2023 07:45:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[14-Sep-2023 07:45:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[20-Sep-2023 09:50:37 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[20-Sep-2023 09:50:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[20-Sep-2023 09:50:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[20-Sep-2023 09:50:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[20-Sep-2023 09:50:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[20-Sep-2023 09:50:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[20-Sep-2023 09:50:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[20-Sep-2023 09:50:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[20-Sep-2023 09:50:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[20-Sep-2023 09:50:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[20-Sep-2023 09:50:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[20-Sep-2023 09:51:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[20-Sep-2023 09:51:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[20-Sep-2023 09:51:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[20-Sep-2023 09:51:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[20-Sep-2023 09:51:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[20-Sep-2023 09:51:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[20-Sep-2023 09:51:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[20-Sep-2023 09:51:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[20-Sep-2023 09:51:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[20-Sep-2023 09:51:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[20-Sep-2023 09:54:49 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[20-Sep-2023 09:54:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[20-Sep-2023 09:54:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[20-Sep-2023 09:54:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[20-Sep-2023 09:54:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[20-Sep-2023 09:55:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[20-Sep-2023 09:55:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[20-Sep-2023 09:55:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[20-Sep-2023 09:55:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[20-Sep-2023 09:55:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[20-Sep-2023 09:55:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[20-Sep-2023 09:55:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[20-Sep-2023 09:55:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[20-Sep-2023 09:55:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[20-Sep-2023 09:55:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[20-Sep-2023 09:55:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[20-Sep-2023 09:55:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[20-Sep-2023 09:55:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[20-Sep-2023 09:55:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[20-Sep-2023 09:55:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[20-Sep-2023 09:55:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[20-Sep-2023 09:55:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[20-Sep-2023 09:55:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[20-Sep-2023 09:56:17 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[20-Sep-2023 09:56:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[20-Sep-2023 09:56:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[20-Sep-2023 09:56:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[20-Sep-2023 09:56:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[20-Sep-2023 09:56:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[20-Sep-2023 09:56:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[20-Sep-2023 09:56:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[20-Sep-2023 09:56:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[20-Sep-2023 09:57:25 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[20-Sep-2023 09:57:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[20-Sep-2023 09:57:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[20-Sep-2023 09:57:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[20-Sep-2023 09:57:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[20-Sep-2023 10:38:28 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[20-Sep-2023 10:38:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[20-Sep-2023 10:38:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[20-Sep-2023 10:38:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[20-Sep-2023 10:38:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[20-Sep-2023 10:38:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[20-Sep-2023 10:38:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[20-Sep-2023 10:38:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[20-Sep-2023 10:38:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[21-Sep-2023 04:20:03 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[21-Sep-2023 04:20:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[21-Sep-2023 04:20:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[21-Sep-2023 04:20:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[21-Sep-2023 04:20:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[21-Sep-2023 04:20:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[21-Sep-2023 04:20:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[21-Sep-2023 04:20:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[21-Sep-2023 04:20:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[21-Sep-2023 04:20:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[21-Sep-2023 04:20:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[21-Sep-2023 04:26:35 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[21-Sep-2023 04:26:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[21-Sep-2023 04:26:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[21-Sep-2023 04:26:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[21-Sep-2023 04:26:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[21-Sep-2023 04:26:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[21-Sep-2023 04:26:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[21-Sep-2023 04:26:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[21-Sep-2023 04:26:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[21-Sep-2023 08:33:39 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[21-Sep-2023 08:33:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[21-Sep-2023 08:33:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[21-Sep-2023 08:33:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[21-Sep-2023 08:33:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[21-Sep-2023 08:33:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[21-Sep-2023 08:33:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[21-Sep-2023 08:33:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[21-Sep-2023 08:33:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[21-Sep-2023 10:31:44 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[21-Sep-2023 10:31:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[21-Sep-2023 10:31:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[21-Sep-2023 10:31:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[21-Sep-2023 10:31:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[21-Sep-2023 10:31:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[21-Sep-2023 10:31:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[21-Sep-2023 10:31:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[21-Sep-2023 10:31:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[23-Sep-2023 07:07:35 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[23-Sep-2023 07:07:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[23-Sep-2023 07:07:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[23-Sep-2023 07:07:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[23-Sep-2023 07:07:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[23-Sep-2023 07:07:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[23-Sep-2023 07:07:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[23-Sep-2023 07:07:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[23-Sep-2023 07:07:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[23-Sep-2023 07:07:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[23-Sep-2023 07:07:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[17-Oct-2023 11:06:01 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[17-Oct-2023 11:06:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[17-Oct-2023 11:06:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[17-Oct-2023 11:06:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[17-Oct-2023 11:06:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[17-Oct-2023 11:06:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[17-Oct-2023 11:06:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[17-Oct-2023 11:06:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[17-Oct-2023 11:06:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[17-Oct-2023 11:06:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[17-Oct-2023 11:06:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[17-Oct-2023 11:06:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[17-Oct-2023 11:06:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[17-Oct-2023 11:06:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[17-Oct-2023 11:06:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[17-Oct-2023 11:06:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[17-Oct-2023 11:06:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[18-Oct-2023 10:32:06 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[18-Oct-2023 10:32:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[18-Oct-2023 10:32:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[18-Oct-2023 10:32:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[18-Oct-2023 10:32:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[18-Oct-2023 10:32:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[18-Oct-2023 10:32:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[18-Oct-2023 10:32:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[18-Oct-2023 10:32:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[19-Oct-2023 03:17:03 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[19-Oct-2023 03:17:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[19-Oct-2023 03:17:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[19-Oct-2023 03:17:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[19-Oct-2023 03:17:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[19-Oct-2023 03:18:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[19-Oct-2023 03:18:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[19-Oct-2023 03:18:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[19-Oct-2023 03:18:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[21-Oct-2023 06:16:03 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[21-Oct-2023 06:16:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[21-Oct-2023 06:16:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[21-Oct-2023 06:16:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[21-Oct-2023 06:16:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[21-Oct-2023 06:16:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[21-Oct-2023 06:16:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[21-Oct-2023 06:16:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[21-Oct-2023 06:16:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[22-Oct-2023 06:26:49 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[22-Oct-2023 06:26:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[22-Oct-2023 06:26:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[22-Oct-2023 06:26:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[22-Oct-2023 06:26:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[22-Oct-2023 06:26:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[22-Oct-2023 06:26:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[22-Oct-2023 06:26:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[22-Oct-2023 06:26:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[04-Nov-2023 07:01:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[04-Nov-2023 07:01:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[04-Nov-2023 07:01:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[04-Nov-2023 07:01:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[04-Nov-2023 07:01:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[04-Nov-2023 07:01:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[04-Nov-2023 07:01:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[04-Nov-2023 07:01:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[04-Nov-2023 07:01:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[04-Nov-2023 07:14:39 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[04-Nov-2023 07:14:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[04-Nov-2023 07:14:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[04-Nov-2023 07:14:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[04-Nov-2023 07:14:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[04-Nov-2023 07:14:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[04-Nov-2023 07:14:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[04-Nov-2023 08:51:39 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[04-Nov-2023 08:51:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[04-Nov-2023 08:51:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[04-Nov-2023 08:51:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[04-Nov-2023 08:51:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[04-Nov-2023 09:01:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[04-Nov-2023 09:01:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[04-Nov-2023 09:01:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[04-Nov-2023 09:01:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[05-Nov-2023 05:43:55 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[05-Nov-2023 05:43:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[05-Nov-2023 05:43:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[05-Nov-2023 05:43:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[05-Nov-2023 05:43:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[05-Nov-2023 05:44:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[05-Nov-2023 05:44:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[05-Nov-2023 05:44:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[05-Nov-2023 05:44:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[05-Nov-2023 05:44:56 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[05-Nov-2023 05:44:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[05-Nov-2023 05:44:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[05-Nov-2023 05:44:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[05-Nov-2023 05:44:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[05-Nov-2023 05:45:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[05-Nov-2023 05:45:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[05-Nov-2023 05:45:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[05-Nov-2023 05:45:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[05-Nov-2023 05:45:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[05-Nov-2023 05:45:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[07-Nov-2023 10:44:08 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[07-Nov-2023 10:44:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[07-Nov-2023 10:44:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[07-Nov-2023 10:44:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[07-Nov-2023 10:44:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[07-Nov-2023 10:44:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[07-Nov-2023 10:44:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[07-Nov-2023 10:44:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[07-Nov-2023 10:44:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[07-Nov-2023 10:44:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[07-Nov-2023 10:44:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[07-Nov-2023 10:44:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[07-Nov-2023 10:44:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[07-Nov-2023 10:45:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[07-Nov-2023 10:45:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[07-Nov-2023 10:45:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'link' in 'field list' in /home/elaeltdc/public_html/jubo/admin-panel/trainer_edit.php:87
+Stack trace:
+#0 /home/elaeltdc/public_html/jubo/admin-panel/trainer_edit.php(87): PDOStatement->execute()
+#1 {main}
+  thrown in /home/elaeltdc/public_html/jubo/admin-panel/trainer_edit.php on line 87
+[07-Nov-2023 10:45:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[07-Nov-2023 10:45:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[07-Nov-2023 10:47:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[07-Nov-2023 10:47:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[07-Nov-2023 10:47:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[07-Nov-2023 10:47:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[08-Nov-2023 03:08:19 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[08-Nov-2023 03:08:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[08-Nov-2023 03:08:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[08-Nov-2023 03:08:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[08-Nov-2023 03:08:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[08-Nov-2023 03:08:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[08-Nov-2023 03:08:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[08-Nov-2023 03:08:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[08-Nov-2023 03:08:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[08-Nov-2023 03:08:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[08-Nov-2023 03:08:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[08-Nov-2023 03:09:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[08-Nov-2023 03:09:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[08-Nov-2023 03:09:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[08-Nov-2023 03:09:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[08-Nov-2023 03:09:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[08-Nov-2023 03:09:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[08-Nov-2023 03:17:19 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[08-Nov-2023 03:17:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[08-Nov-2023 03:17:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[08-Nov-2023 03:17:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[08-Nov-2023 03:17:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[08-Nov-2023 03:25:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[08-Nov-2023 03:25:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[08-Nov-2023 03:25:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[08-Nov-2023 03:25:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[11-Nov-2023 05:08:36 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[11-Nov-2023 05:08:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[11-Nov-2023 05:08:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[11-Nov-2023 05:08:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[11-Nov-2023 05:08:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[11-Nov-2023 05:08:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[11-Nov-2023 05:08:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[11-Nov-2023 05:08:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[11-Nov-2023 05:08:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[12-Nov-2023 04:37:53 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[12-Nov-2023 04:37:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[12-Nov-2023 04:37:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[12-Nov-2023 04:37:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[12-Nov-2023 04:37:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[12-Nov-2023 04:37:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[12-Nov-2023 04:37:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[12-Nov-2023 04:37:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[12-Nov-2023 04:37:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[14-Nov-2023 04:30:11 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[14-Nov-2023 04:30:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[14-Nov-2023 04:30:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[14-Nov-2023 04:30:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[14-Nov-2023 04:30:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[14-Nov-2023 04:30:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[14-Nov-2023 04:30:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[14-Nov-2023 04:30:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[14-Nov-2023 04:30:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[14-Nov-2023 04:48:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[14-Nov-2023 04:48:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[14-Nov-2023 05:03:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[14-Nov-2023 05:03:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[14-Nov-2023 05:03:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[14-Nov-2023 05:03:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[14-Nov-2023 05:03:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[14-Nov-2023 05:03:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[15-Nov-2023 12:03:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[15-Nov-2023 12:03:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[15-Nov-2023 12:03:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[15-Nov-2023 12:03:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[15-Nov-2023 12:04:00 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[15-Nov-2023 12:04:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[15-Nov-2023 12:04:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[15-Nov-2023 12:04:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[15-Nov-2023 12:04:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[04-Dec-2023 05:54:52 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[04-Dec-2023 05:54:52 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[04-Dec-2023 05:54:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 4
+[04-Dec-2023 05:54:58 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[04-Dec-2023 05:54:58 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[04-Dec-2023 05:54:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 4
+[04-Dec-2023 05:55:00 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[04-Dec-2023 05:55:00 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[04-Dec-2023 05:55:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 4
+[04-Dec-2023 05:55:09 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[04-Dec-2023 05:55:09 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[04-Dec-2023 05:55:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 4
+[04-Dec-2023 05:55:14 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[04-Dec-2023 05:55:14 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[04-Dec-2023 05:55:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 4
+[04-Dec-2023 05:55:18 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[04-Dec-2023 05:55:18 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[04-Dec-2023 05:55:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 4
+[04-Dec-2023 05:55:33 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[04-Dec-2023 05:55:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[04-Dec-2023 05:55:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[04-Dec-2023 05:55:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[04-Dec-2023 05:55:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[04-Dec-2023 05:55:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[04-Dec-2023 05:55:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[04-Dec-2023 05:55:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[04-Dec-2023 05:55:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[04-Dec-2023 05:55:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[04-Dec-2023 05:55:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[17-Dec-2023 09:30:51 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[17-Dec-2023 09:30:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[17-Dec-2023 09:30:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[17-Dec-2023 09:30:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[17-Dec-2023 09:30:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[03-Mar-2024 05:39:03 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[03-Mar-2024 05:39:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[03-Mar-2024 05:39:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[03-Mar-2024 05:39:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[03-Mar-2024 05:39:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[03-Mar-2024 05:39:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[03-Mar-2024 05:39:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[03-Mar-2024 05:39:23 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[03-Mar-2024 05:39:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[03-Mar-2024 05:39:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[03-Mar-2024 05:39:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[03-Mar-2024 05:39:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[14-Mar-2024 05:12:21 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[14-Mar-2024 05:12:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[14-Mar-2024 05:12:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[14-Mar-2024 05:12:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[14-Mar-2024 05:12:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[14-Mar-2024 05:12:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[14-Mar-2024 05:12:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[14-Mar-2024 05:12:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[14-Mar-2024 05:12:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[14-Mar-2024 05:12:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[14-Mar-2024 05:12:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[14-Mar-2024 05:12:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[14-Mar-2024 05:12:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[14-Mar-2024 05:18:05 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[14-Mar-2024 05:18:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[14-Mar-2024 05:18:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[14-Mar-2024 05:18:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[14-Mar-2024 05:18:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[23-May-2024 06:06:24 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[23-May-2024 06:06:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[23-May-2024 06:06:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[23-May-2024 06:06:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[23-May-2024 06:06:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[23-May-2024 06:06:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[23-May-2024 06:06:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[23-May-2024 06:06:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[23-May-2024 06:06:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[25-May-2024 08:46:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[25-May-2024 08:46:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[25-May-2024 08:46:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[25-May-2024 08:46:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[25-May-2024 08:46:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[25-May-2024 08:46:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[25-May-2024 08:46:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[25-May-2024 08:46:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[25-May-2024 08:46:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[25-May-2024 08:46:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[25-May-2024 08:46:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[25-May-2024 08:46:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[25-May-2024 08:46:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[25-May-2024 08:48:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[25-May-2024 08:48:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[25-May-2024 08:48:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[25-May-2024 08:48:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[01-Jun-2024 06:16:33 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[01-Jun-2024 06:16:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[01-Jun-2024 06:16:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[01-Jun-2024 06:16:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[01-Jun-2024 06:16:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[01-Jun-2024 06:16:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[01-Jun-2024 06:16:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[01-Jun-2024 06:16:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[01-Jun-2024 06:16:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[01-Jun-2024 06:17:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[01-Jun-2024 06:17:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[01-Jun-2024 06:17:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[01-Jun-2024 06:17:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[01-Jun-2024 06:18:03 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[01-Jun-2024 06:18:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[01-Jun-2024 06:18:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[01-Jun-2024 06:18:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[01-Jun-2024 06:18:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[01-Jun-2024 06:18:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[01-Jun-2024 06:18:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[01-Jun-2024 06:18:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[01-Jun-2024 06:18:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[01-Jun-2024 06:18:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[01-Jun-2024 06:18:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[01-Jun-2024 06:18:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[01-Jun-2024 06:18:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[01-Jun-2024 07:11:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[01-Jun-2024 07:11:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 4
+[11-Jun-2024 09:41:57 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[11-Jun-2024 09:41:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[11-Jun-2024 09:41:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[11-Jun-2024 09:41:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[11-Jun-2024 09:41:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[11-Jun-2024 09:41:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[11-Jun-2024 09:41:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[11-Jun-2024 09:41:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[11-Jun-2024 09:41:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[11-Jun-2024 09:47:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[11-Jun-2024 09:47:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[11-Jun-2024 09:47:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[11-Jun-2024 09:47:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[11-Jun-2024 09:47:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[11-Jun-2024 09:47:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[11-Jun-2024 09:47:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[11-Jun-2024 09:47:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[11-Jun-2024 09:47:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[11-Jun-2024 09:47:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[11-Jun-2024 09:47:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[11-Jun-2024 09:47:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[11-Jun-2024 09:47:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[11-Jun-2024 09:47:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[11-Jun-2024 09:47:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[11-Jun-2024 09:47:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[11-Jun-2024 09:47:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[11-Jun-2024 09:47:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[11-Jun-2024 09:47:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[11-Jun-2024 09:47:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[11-Jun-2024 09:47:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[11-Jun-2024 09:47:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[30-Jun-2024 04:09:31 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/elaeltdc/public_html/jubo/admin-panel/index.php:1) in /home/elaeltdc/public_html/jubo/admin-panel/session.php on line 2
+[30-Jun-2024 04:09:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[30-Jun-2024 04:09:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[30-Jun-2024 04:09:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[30-Jun-2024 04:09:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[30-Jun-2024 04:09:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[30-Jun-2024 04:09:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136
+[30-Jun-2024 04:09:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 73
+[30-Jun-2024 04:09:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/public_html/jubo/admin-panel/modal.php on line 136

@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html lang="en"> 
+
+<head>
+<?php   require_once 'head_link.php'; ?>
+
+</head>
+
+<body>
+ 
+<?php   require_once 'header1.php'; ?> 
+
+<?php  require_once 'sidebar.php'; ?>
+
+
+  <main id="main" class="main1">
+  
+  <div class="pagetitle">
+      <h1>  Item Wise Buy / Sale / Return </h1>
+       <hr>
+    </div> 
+	
+	<section class="section">
+      <div class="row">
+	  
+        <div class="col-lg-12">
+
+          <div class="container">
+          <div class="card">
+            <div class="card-body">
+			
+	  <table class="table table-hover">
+       
+	   <thead>
+          <tr>
+		  <th class="no"><b>SL</b> </th> 
+		  <th class="desc"><b> Description</b></th> 
+		  <th class="desc"><b> Value</b></th> 
+          </tr>
+        </thead>
+        
+		 <tbody>	
+		 
+		 
+		 <tr>
+            <td class="no">1</td>
+            <td class="desc">Total Buy Qty</td>
+            <td class="desc">
+<?php 
+ date_default_timezone_set("Asia/Dhaka");
+ $date=date("Y/m/d");
+$sql = $con->query("SELECT sum(sup_order_item.order_quantity) as total FROM sup_order_item
+left join sup_orders on sup_orders.order_id=sup_order_item.order_id
+WHERE sup_order_item.entry_date='$date' and sup_order_item.order_item_status=1 and sup_orders.user_id ='".$_SESSION['id']."' ");
+$row = $sql->fetch_assoc();
+$TBQ= $row['total'];
+?><?php echo $TBQ ; ?>
+			</td> 
+          </tr> 
+		  
+		  <tr style="display:none;">
+		  <td class="no">2</td>
+		  <td class="desc">Previous Due</td>
+		  <td class="desc">
+		  <?php 
+$sql = $con->query("SELECT sum(`pre_due`) as `total` FROM `sup_orders`
+WHERE order_date='$date' and order_status=1 and sup_orders.user_id ='".$_SESSION['id']."' ");
+$row = $sql->fetch_assoc();
+$TBP= $row['total'];
+?><?php echo $TBP ; ?>
+		  </td>
+		  </tr>
+		  
+		  <tr>
+		  <td class="no">2</td>
+		  <td class="desc">Total Buy Price</td>
+		  <td class="desc">
+		  <?php 
+$sql = $con->query("SELECT sum(`today_total`) as `total` FROM `sup_orders`
+WHERE order_date='$date' and order_status=1 and sup_orders.user_id ='".$_SESSION['id']."' ");
+$row = $sql->fetch_assoc();
+$TBP= $row['total'];
+?><?php echo $TBP ; ?>
+		  </td>
+		  </tr>
+		  
+		  <tr style="display:none;">
+		  <td class="no">2</td>
+		  <td class="desc">Total Buy Price</td>
+		  <td class="desc">
+		  <?php 
+$sql = $con->query("SELECT sum(`grand_total`) as `total` FROM `sup_orders`
+WHERE order_date='$date' and order_status=1 and sup_orders.user_id ='".$_SESSION['id']."' ");
+$row = $sql->fetch_assoc();
+$TBP= $row['total'];
+?><?php echo $TBP ; ?>
+		  </td>
+		  </tr>
+		  
+		  <tr>
+		  <td class="no">3</td>
+		  <td class="desc">Total Paid</td>
+		   <td class="desc">
+		   <?php 
+$sql = $con->query("SELECT sum(`paid`) as `total` FROM `sup_orders`
+ WHERE order_date='$date' and order_status=1 and user_id ='".$_SESSION['id']."' ");
+$row = $sql->fetch_assoc();
+$TPD= $row['total'];
+?><?php echo $TPD ; ?>
+		   </td>
+		  </tr>
+		  
+		  <tr>
+		  <td class="no">4</td>
+		  <td class="desc">Due Paid Without Buy</td>
+		   <td class="desc">
+		   <?php 
+$sql = $con->query("SELECT sum(`paid`) as `total` FROM `sup_orders_dues` WHERE last_update='$date' and dues_or_paid_status=5 and user_id ='".$_SESSION['id']."' ");
+$row = $sql->fetch_assoc();
+$TDPWB= $row['total'];
+?> <?php echo $TDPWB ; ?>
+		   </td>
+		  </tr>
+		  
+		  <tr>
+		  <td class="no"><b>5</b></td>
+		  <td class="desc"><b>Total Buy Cost</b></td>
+		   <td class="desc">
+		 <b>  <?php
+$TBC=$TPD+$TDPWB ;
+ echo $TBC ;
+ ?></b>
+		   </td>
+		  </tr>
+		  
+		  <tr> <td><br></td> <td><br></td> <td><br></td> </tr>
+		  
+		   <tr>
+            <td class="no">6</td>
+            <td class="desc">Product Return To Store </td>
+            <td class="desc">
+<?php  
+$sql = $con->query("SELECT sum(back_qty) as total FROM order_item_all 
+WHERE entry_date='$date' and order_item_status=4 and user_id ='".$_SESSION['id']."' ");
+$row = $sql->fetch_assoc();
+$RTS= $row['total'];
+?><?php echo $RTS ; ?>
+			</td> 
+          </tr>
+		  
+<tr>
+            <td class="no">7</td>
+            <td class="desc">Product Return To Supplier </td>
+            <td class="desc">
+<?php  
+$sql = $con->query("SELECT sum(back_qty) as total FROM order_item_all 
+WHERE entry_date='$date' and order_item_status=2 and user_id ='".$_SESSION['id']."' ");
+$row = $sql->fetch_assoc();
+$RTS1= $row['total'];
+?><?php echo $RTS1 ; ?>
+			</td> 
+</tr> 
+
+<tr>
+            <td class="no"><b>8</b></td>
+            <td class="desc"><b>Recent Product Stock </b></td>
+            <td class="desc"><b>
+<?php  
+$sql = $con->query("SELECT sum(quantity) as total FROM product 
+WHERE user_id ='".$_SESSION['id']."' ");
+$row = $sql->fetch_assoc();
+$RTS1= $row['total'];
+?><?php echo $RTS1 ; ?></b>
+			</td> 
+</tr>
+
+		  <tr> <td><br></td> <td><br></td> <td><br></td> </tr>
+		  
+		  
+          <tr>
+            <td class="no">9</td>
+            <td class="desc">Total Sale Qty</td>
+            <td class="desc">
+<?php  
+$sql = $con->query("SELECT sum(order_item.order_quantity) as total FROM order_item
+left join orders on orders.order_id=order_item.order_id
+WHERE order_item.entry_date='$date' and orders.user_id ='".$_SESSION['id']."' ");
+$row = $sql->fetch_assoc();
+$TSQ= $row['total'];
+?><?php echo $TSQ ; ?>
+			</td> 
+          </tr>
+		  
+		  <tr>
+		  <td class="no">10</td>
+		  <td class="desc">Previous Due</td>
+		  <td class="desc">
+		  <?php 
+$sql = $con->query("SELECT sum(`pre_due`) as `total` FROM `orders`
+WHERE order_date='$date' and orders.user_id ='".$_SESSION['id']."' ");
+$row = $sql->fetch_assoc();
+$TSP1= $row['total'];
+?><?php echo $TSP1 ; ?>
+		  </td>
+		  </tr>
+		  
+		  <tr>
+		  <td class="no"><b>11</b></td>
+		  <td class="desc"><b>Today Sale Price</b></td>
+		  <td class="desc">
+		  <b><?php 
+$sql = $con->query("SELECT sum(`today_total`) as `total` FROM `orders`
+WHERE order_date='$date' and orders.user_id ='".$_SESSION['id']."' ");
+$row = $sql->fetch_assoc();
+$TSP= $row['total'];
+?><?php echo $TSP ; ?></b>
+		  </td>
+		  </tr>
+		  
+		  <tr>
+		  <td class="no">12</td>
+		  <td class="desc">Total Sale Price</td>
+		  <td class="desc">
+		  <?php 
+$sql = $con->query("SELECT sum(`grand_total`) as `total` FROM `orders`
+WHERE order_date='$date' and orders.user_id ='".$_SESSION['id']."' ");
+$row = $sql->fetch_assoc();
+$TSP1= $row['total'];
+?><?php echo $TSP1 ; ?>
+		  </td>
+		  </tr>
+		  
+		  <tr>
+            <td class="no">13</td>
+            <td class="desc">Total Buy Price</td>
+            <td class="desc">
+<?php  
+$sql = $con->query("SELECT sum(order_item.buy_rate * order_item.order_quantity) as total FROM order_item
+left join orders on orders.order_id=order_item.order_id
+WHERE order_item.entry_date='$date' and orders.user_id ='".$_SESSION['id']."' ");
+$row = $sql->fetch_assoc();
+$TBPS= $row['total'];
+?><?php echo $TBPS ; ?>
+			</td> 
+          </tr>
+		  
+		  <tr>
+            <td class="no"><b>14</b></td>
+            <td class="desc"><b>Today's Profit</b></td>
+            <td class="desc">
+<b><?php
+$TDP=$TSP-$TBPS ;
+ echo $TDP ;
+ ?></b>
+			</td> 
+          </tr>
+		  
+		  <tr>
+		  <td class="no">15</td>
+		  <td class="desc">Paid By Invoice</td>
+		   <td class="desc">
+		   <?php 
+$sql = $con->query("SELECT sum(`paid`) as `total` FROM `orders`
+ WHERE order_date='$date' and order_status='1' and orders.user_id ='".$_SESSION['id']."' ");
+$row = $sql->fetch_assoc();
+$PBI= $row['total'];
+?><?php echo $PBI ; ?>
+		   </td>
+		  </tr>
+		  
+		   <tr>
+		  <td class="no">16</td> 
+		   <td class="desc">Total Due Paid Without Sale</td>
+		   <td class="desc">
+		   <?php 
+$sql = $con->query("SELECT sum(`paid`) as `total` FROM `orders_details` WHERE order_date='$date' and order_type=4 and orders_details.user_id ='".$_SESSION['id']."' ");
+$row = $sql->fetch_assoc();
+$TDPWS= $row['total'];
+?> <?php echo $TDPWS ; ?>
+		   </td>
+		  </tr>
+		  
+		   <tr>
+		  <td class="no">17</td>
+		  <td class="desc">Total Due</td>
+		   <td class="desc">
+		   <?php 
+$sql = $con->query("SELECT sum(`due`) as `total` FROM `orders`
+ WHERE order_date='$date' and order_status='1' and orders.user_id ='".$_SESSION['id']."' ");
+$row = $sql->fetch_assoc();
+$TDue= $row['total'];
+?><?php echo $TDue ; ?>
+		   </td>
+		  </tr>
+		    
+		  
+		   <tr>
+		  <td class="no"><b>18</b></td>
+		  <td class="desc"><b>Grand Total Collection</b></td>
+		   <td class="desc">
+		   <b><?php
+$GTC=$PBI+$TDPWS ;
+ echo $GTC ;
+ ?></b>
+		   </td>
+		  </tr>
+
+ <tr> <td><br></td> <td><br></td> <td><br></td> </tr>
+		  
+		   <tr>
+		  <td class="no">19</td>
+		  <td class="desc">Office Expense</td>
+		   <td class="desc">
+		   <?php
+$sql = $con->query("SELECT SUM(`expense_cost`) as `total2` FROM `expense` where entry_date='$date' and user_id='".$_SESSION['id']."'  ");
+$row = $sql->fetch_assoc();
+$OfExp=$row['total2'];
+?> <?php echo $OfExp; ?>
+		   </td>
+		  </tr>
+		  
+		   <tr>
+		  <td class="no">20</td>
+		  <td class="desc">Other Expense</td>
+		   <td class="desc">
+		   <?php
+$sql = $con->query("SELECT SUM(`expense_cost`) as `total1` FROM `expense_other` where entry_date='$date' and user_id='".$_SESSION['id']."'  ");
+$row = $sql->fetch_assoc();
+$OthExp=$row['total1'];
+?> <?php echo $OthExp; ?>
+		   </td>
+		  </tr>
+		  
+		  <tr>
+		  <td class="no"><b>21</b></td>
+		  <td class="desc"><b>Total Expense</b></td>
+		   <td class="desc">
+		<b>   <?php 
+$TotalExp= $OfExp+$OthExp;
+echo $TotalExp ;
+?></b>
+		   </td>
+		  </tr> 
+	
+<tr> <td><br></td> <td><br></td> <td><br></td> </tr>
+	
+		  <tr>
+		  <td class="no"><b>22</b></td>
+		  <td class="desc"><b>Grand Total Expense</b></td>
+		   <td class="desc">
+		<b>   <?php 
+$GTExp= $TBC+$OfExp+$OthExp;
+echo $GTExp ;
+?></b>
+		   </td>
+		  </tr> 
+		  
+		   <tr> <td><br></td> <td><br></td> <td><br></td> </tr>
+		  
+		 <tr>
+		  <td class="no"><b>23</b></td>
+		  <td class="desc"><b>Total Cash</b></td>
+		   <td class="desc"><b>
+		   <?php 
+$Cash= $GTC-$GTExp;
+echo $Cash ;
+?></b>
+		   </td>
+		  </tr>
+	
+	<!--	  
+		  <tr>
+		  <td class="no"></td>
+		  <td class="no"></td>
+		   <td class="desc">
+		   
+		   </td>
+		  </tr>
+		   
+        </tbody>
+		
+		
+        <tfoot>
+          <tr>
+            <td colspan="1"></td>
+            <td colspan="1">Subtotal =</td>
+            <td>'.$subTotal.'</td>
+          </tr>
+          <tr>
+            <td colspan="1"></td>
+            <td colspan="1">Discount =</td>
+            <td>'.$discount.'</td>
+          </tr>
+          <tr>
+            <td colspan="1"></td>
+            <td colspan="1">Total = </td>
+            <td>'.$TodayTotal.'</td>
+          </tr>
+        </tfoot>
+		-->
+		
+      </table>
+	  
+	  <center><h1 class="h2"> <a target="_blank" class="btn btn-info" href="daily-cash-report-print.php"> <span class="glyphicon glyphicon-print"></span> &nbsp; Print </a></h1></center>
+      
+ </div>
+          </div>
+
+        </div>
+        </div>
+      </div>
+    </section>
+	
+   </main>
+  
+  <?php  require_once 'footer1.php'; ?>
