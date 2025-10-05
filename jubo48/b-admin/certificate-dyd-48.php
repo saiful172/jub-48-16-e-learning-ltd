@@ -21,17 +21,17 @@
 
 <?php
 if (isset($_GET['delete_id'])) {
-    $deleteId = $_GET['delete_id'];
+  $deleteId = $_GET['delete_id'];
 
-    // Get image(s) from database
-   
-    // Delete record from database
-    $stmt_delete = $DB_con->prepare('DELETE FROM certificate_info_dyd_48 WHERE certi_id = :uid');
-    $stmt_delete->execute([':uid' => $deleteId]);
+  // Get image(s) from database
 
-    // Redirect to avoid accidental resubmission
-    // header("Location: certificate-dyd-48.php");
-    // exit;
+  // Delete record from database
+  $stmt_delete = $DB_con->prepare('DELETE FROM certificate_info_dyd_48 WHERE certi_id = :uid');
+  $stmt_delete->execute([':uid' => $deleteId]);
+
+  // Redirect to avoid accidental resubmission
+  // header("Location: certificate-dyd-48.php");
+  // exit;
 }
 ?>
 
@@ -102,7 +102,7 @@ if (isset($_GET['delete_id'])) {
                               <h3 class="m-0">Certificate Reports </h3>
                             </div>
 
-                         
+
                             <div class="col-md-6 col-lg-2 my-2 d-none">
                               <select id="DistId" name="DistId" class="form-control form-select" required>
                                 <option value="<?= $_SESSION['id'] ?>"><?= $user ?></option>
@@ -113,7 +113,7 @@ if (isset($_GET['delete_id'])) {
                               <select id="Batch" name="Batch" class="form-control form-select" required>
                                 <option disabled>Select Batch</option>
                                 <?php
-                             $sql = "SELECT * FROM batch_list ORDER BY batch_id ASC";
+                                $sql = "SELECT * FROM batch_list ORDER BY batch_id ASC";
                                 $result = $con->query($sql);
                                 while ($row = $result->fetch_assoc()) {
                                   echo "<option value='" . $row['batch_id'] . "'>" . $row['batch_name'] . "</option>";
@@ -145,12 +145,12 @@ if (isset($_GET['delete_id'])) {
                                 var batchId = document.getElementById("Batch").value;
                                 var groupId = document.getElementById("Group").value;
 
-                             
-                                  if (distId && batchId && groupId) {
-                                    // Update href attribute of report link
-                                    this.href = "certificate-dyd-48-information-report?dist_id=" + distId + "&batch_id=" + batchId + "&group_id=" + groupId;
-                                  }
-                                
+
+                                if (distId && batchId && groupId) {
+                                  // Update href attribute of report link
+                                  this.href = "certificate-dyd-48-information-report?dist_id=" + distId + "&batch_id=" + batchId + "&group_id=" + groupId;
+                                }
+
                               });
                             </script>
 
@@ -174,9 +174,9 @@ if (isset($_GET['delete_id'])) {
                           <th>Mother Name</th>
                           <th>Certificate No</th>
                           <th style="width: 5%;">Batch</th>
-                           <th style="width: 5%;">Group</th>
+                          <th style="width: 5%;">Group</th>
                           <th>Course</th>
-                           <th>Duration</th>
+                          <th>Duration</th>
                           <th>Image</th>
                           <th>Action</th>
                         </tr>
@@ -185,10 +185,10 @@ if (isset($_GET['delete_id'])) {
 
 
 
-<tbody>
-<?php
-$sl = 1;
-$sql = mysqli_query($con, "
+                      <tbody>
+                        <?php
+                        $sl = 1;
+                        $sql = mysqli_query($con, "
   SELECT 
     certificate_info_dyd_48.*, 
     student_list.stu_name,
@@ -208,28 +208,28 @@ $sql = mysqli_query($con, "
   ORDER BY certificate_info_dyd_48.certi_id DESC
 ");
 
-while ($eqrow = mysqli_fetch_array($sql)) {
-?>
-  <tr>
-    <td><?= $sl++; ?></td>
-<td><?= $eqrow['stu_name']; ?></td>
-    <td><?= $eqrow['father_name']; ?></td>
-    <td><?= $eqrow['mother_name']; ?></td>
-    <td><?= $eqrow['certificate_no']; ?></td>
-    <td><?= $eqrow['batch_name'] ?? '-'; ?></td>
-    <td><?= $eqrow['group_name'] ?? '-'; ?></td>
-    <td><?= $eqrow['course_name'] ?? '-'; ?></td>
-    <td><?= $eqrow['duration'] ?? '-'; ?></td>
-    <td> <img src="user_images/<?= $eqrow['userPic']; ?>" class="img-fluid img-thumbnail rounded-circle" style="width:40px; height: 40px;" /></td>
-    <td>
-      <a class="btn btn-success waves-effect" href="certificate-dyd-48-info-edit?edit_id=<?= $eqrow['certi_id'] ?>"><i class="fa fa-edit me-2"></i>Edit</a>
-      <a class="btn btn-danger waves-effect" href="?delete_id=<?= $eqrow['certi_id']; ?>" onclick="return confirm('Are You Sure....?')"><i class="fa fa-trash me-2"></i>Delete</a>
-    </td>
-  </tr>
-<?php
-}
-?>
-</tbody>
+                        while ($eqrow = mysqli_fetch_array($sql)) {
+                        ?>
+                          <tr>
+                            <td><?= $sl++; ?></td>
+                            <td><?= $eqrow['stu_name']; ?></td>
+                            <td><?= $eqrow['father_name']; ?></td>
+                            <td><?= $eqrow['mother_name']; ?></td>
+                            <td><?= $eqrow['certificate_no']; ?></td>
+                            <td><?= $eqrow['batch_name'] ?? '-'; ?></td>
+                            <td><?= $eqrow['group_name'] ?? '-'; ?></td>
+                            <td><?= $eqrow['course_name'] ?? '-'; ?></td>
+                            <td><?= $eqrow['duration'] ?? '-'; ?></td>
+                            <td> <img src="user_images/<?= $eqrow['userPic']; ?>" class="img-fluid img-thumbnail rounded-circle" style="width:40px; height: 40px;" /></td>
+                            <td>
+                              <a class="btn btn-success waves-effect" href="certificate-dyd-48-info-edit?edit_id=<?= $eqrow['certi_id'] ?>"><i class="fa fa-edit me-2"></i>Edit</a>
+                              <a class="btn btn-danger waves-effect" href="?delete_id=<?= $eqrow['certi_id']; ?>" onclick="return confirm('Are You Sure....?')"><i class="fa fa-trash me-2"></i>Delete</a>
+                            </td>
+                          </tr>
+                        <?php
+                        }
+                        ?>
+                      </tbody>
 
 
 

@@ -174,7 +174,7 @@
                         ?>
                             <img src="user_images/<?= $eqrow['userPic'] ?>" class="img-fluid img-thumbnail rounded-circle mb-3" style="width: 150px; height: 150px;" />
                             <h3 class="m-0" style="border-bottom: 2px solid #ccc; padding-bottom: 5px;"><?= $eqrow['stu_name'] ?></h3>
-                           <p class="mb-0 mt-2"><strong>Batch:</strong> <?= $eqrow['batch_name'] ?></p>
+                            <p class="mb-0 mt-2"><strong>Batch:</strong> <?= $eqrow['batch_name'] ?></p>
                             <p class="mb-0"><strong>Group:</strong> <?= $eqrow['group_name'] ?></p>
                             <!-- <p class="mb-0"><strong>District:</strong> <?= $eqrow['dist_name'] ?></p> -->
                             <!-- <p class="mb-0"><strong>Duration:</strong> <?= $eqrow['duration'] ?></p>
