@@ -152,18 +152,27 @@
                       </div>
                     </div>
                   </form>
+                  <div class="btn mb-3">
+                    <a href="assets/demo/demo.xlsx" download class="btn btn-primary w-100">
+                      📄 Download Demo Excel
+                    </a>
+                  </div>
                   <!-- Bulk Import Form -->
 
                   <form method="POST" enctype="multipart/form-data" action="certificate-dyd-48-import.php" class="mb-4">
                     <div class="row g-2 align-items-end">
+
                       <div class="col-md-4 col-sm-8">
                         <input type="file" name="import_file" accept=".xlsx" class="form-control" required>
                       </div>
                       <div class="col-md-2 col-sm-4">
                         <button type="submit" name="import_excel" class="btn btn-success w-100">📥 Import Excel</button>
                       </div>
+
                     </div>
                   </form>
+
+
 
 
                   <button onclick="exportTableToExcel()" class="btn btn-outline-success mb-3">
