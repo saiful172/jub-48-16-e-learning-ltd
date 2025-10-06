@@ -102,7 +102,15 @@
                   $currentBatch = $_GET['batch'] ?? '';
                   $currentGroup = $_GET['group'] ?? '';
                   ?>
-
+                  <?php
+                  // Import success/error message
+                  if (isset($_GET['imported'])) {
+                    echo "<div class='alert alert-success mb-3'>✅ Imported: <b>" . intval($_GET['imported']) . "</b>, Skipped (duplicate): <b>" . intval($_GET['skipped']) . "</b></div>";
+                  }
+                  if (isset($_GET['error'])) {
+                    echo "<div class='alert alert-danger mb-3'>❌ " . htmlspecialchars($_GET['error']) . "</div>";
+                  }
+                  ?>
                   <!-- Filter Form -->
                   <form method="GET" class="mb-4">
                     <div class="row g-2">
@@ -141,6 +149,18 @@
                         <?php if ($currentDistrict || $currentBatch || $currentGroup) { ?>
                           <a href="certificate-dyd-48-view.php" class="btn btn-outline-secondary">Reset</a>
                         <?php } ?>
+                      </div>
+                    </div>
+                  </form>
+                  <!-- Bulk Import Form -->
+
+                  <form method="POST" enctype="multipart/form-data" action="certificate-dyd-48-import.php" class="mb-4">
+                    <div class="row g-2 align-items-end">
+                      <div class="col-md-4 col-sm-8">
+                        <input type="file" name="import_file" accept=".xlsx" class="form-control" required>
+                      </div>
+                      <div class="col-md-2 col-sm-4">
+                        <button type="submit" name="import_excel" class="btn btn-success w-100">📥 Import Excel</button>
                       </div>
                     </div>
                   </form>
@@ -313,10 +333,11 @@
 
       // Redraw table on filter change (optional)
       $('select[name=district], select[name=batch], select[name=group]').on('change', function() {
-        $('#datatable').DataTable().ajax.reload(); // only needed if using server-side processing
+        // $('#datatable').DataTable().ajax.reload(); // only needed if using server-side processing
       });
     });
   </script>
+
 
 
 
