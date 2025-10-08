@@ -228,7 +228,7 @@
                           $stmt->execute();
                           $sql = $stmt->get_result();
                         } else {
-                          $sql = $con->query("SELECT * FROM dyd_certificate ORDER BY district ASC ");
+                          $sql = $con->query("SELECT * FROM dyd_certificate ORDER BY district ASC");
                         }
 
                         $sl = 1;
@@ -248,7 +248,7 @@
                             <td><?= htmlspecialchars($row['duration']); ?></td>
                             <td class="text-center">
                               <div class="action-buttons d-flex justify-content-center gap-2">
-                                <a class="btn btn-success btn-sm" href="dyd-certificate-edit.php?edit_id=<?= $row['id']; ?>">
+                                <a class="btn btn-success btn-sm" href="certificate-dyd-48-edit.php?edit_id=<?= $row['id']; ?>">
                                   <i class="fa fa-edit me-1"></i>Edit
                                 </a>
                                 <a class="btn btn-danger btn-sm" href="?delete_id=<?= $row['id']; ?>" onclick="return confirm('Are you sure you want to delete this record?')">
